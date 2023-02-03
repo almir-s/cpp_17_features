@@ -15,9 +15,8 @@ int main() {
             std::cout << "1" << std::endl;
             break;
         default:
-            std::cout << "Something other" << std::endl;
+            std::cout << "Something else" << std::endl;
     }
-
     return 0;
 }
 

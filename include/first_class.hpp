@@ -5,8 +5,6 @@
 
 inline std::string data{"global inline variable"};
 class FirstClass {
-  int a = 5;
-
   public:
   std::string getA();
 };
